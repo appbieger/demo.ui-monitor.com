@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "rc": "ok"
+    },
+    "data": [
+        
+        {
+            "_id": "xxccss",
+            "key": "provider_capabilities",
+            "site_id": "dsseee",
+            "download": 75000,
+            "upload": 25000
+        } 
+    ]
+}
