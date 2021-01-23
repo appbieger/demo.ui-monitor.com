@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "rc": "ok"
+    },
+    "data": [
+ 
+        {
+            "_id": "xxx",
+            "key": "provider_capabilities",
+            "site_id": "yyy",
+            "download": 75000,
+            "upload": 25000
+        } 
+    ]
+}
