@@ -1,15 +1,9 @@
 {
-    "meta": {
-        "rc": "ok"
-    },
-    "data": [
- 
-        {
-            "_id": "xxx",
-            "key": "provider_capabilities",
-            "site_id": "yyy",
-            "download": 75000,
-            "upload": 25000
-        } 
-    ]
+  "data": [],
+  "meta": {
+    "rc": "ok",
+    "server_version": "5.7.23",
+    "up": true,
+    "uuid": "0e727580-ffff-ffff-ffff-403dcd5a7bd4"
+  }
 }
